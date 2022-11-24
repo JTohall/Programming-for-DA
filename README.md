@@ -1,9 +1,13 @@
-# Programming for Data Analytics
+# Programming for Data Analytics - Project 1
 
-## Project 1
+<br/>
 
-Jamie Tohall<n>
-G00411380
+#### Author: Jamie Tohall <br/>
+#### Student number: G00411380
+#### Lecturer: Brian McGinley
+#### Submission date: 4th December 2022
+
+<br/>
 
 ### Introduction
 
