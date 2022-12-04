@@ -11,7 +11,9 @@
 
 ### Introduction
 
-### Jupyter notebook
+### Explanation of Repository
+
+### How to run Jupyter notebook
 
 ### References
 
