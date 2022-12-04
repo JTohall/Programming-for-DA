@@ -44,7 +44,22 @@ data set itself can simply be displayed in an output cell within the notebook
 
 ### Explanation of Repository
 <br/>
+For this project I chose the real world phenomenon of Irish expats. <br/>
+
 <br/>
+
+>"The word expat is a contraction of expatriate, which derives from the Latin word expatriatus. In medieval times, an expatriatus was someone who had left his or her home country to live somewhere else. So in today’s culture an expatriate is exactly that; someone who lives in a different location than that which they were born and brought up. In general expatriates are considered to be people who are residing in their host country temporarily, with the ultimate intention of returning home at a later date. However, in recent times, more and more expatriates have left their home country and found that they can experience a higher standard of living and a better of quality of life abroad and, for this reason, many of them never return home."
+>www.expatinfodesk.com
+
+<br/>
+
+I have chosen to create a data set profiling the 'typical' Irish expat from the last two years. Defining an expat for the purpose of the dataset as an Irish person who last left Ireland in the last two years to move abroad for an undefined length of time.
+I have chosen this topic as it is something I have experience in, I myself moved to Australia in 2015 and lived there for 5 years, before returning to Ireland. It seems that everyone in Ireland has a relation or a friend of a friend that has moved abroad lately, and the purpose of this study is to try and define, or create a profile of the usual Irish expat, and see if there are any connections between the four variables I have chosen.
+<br/>
+
+According to the latest Central Statistics Office Population and Migration Estimates released this August, an estimated 27,600 Irish people left Ireland in the year 2022 up to April. This represents an increase of 4,800 people leaving when compared to last year’s figures which estimated that 22,800 Irish people emigrated in the year 2021.
+
+
 
 ### How to run Jupyter notebook
 <br/>
