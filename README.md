@@ -61,7 +61,7 @@ According to the latest Central Statistics Office Population and Migration Estim
 
 
 
-### How to run Jupyter notebook
-<br/>
+### How to view this repository <br/>
+To view this repository, you will have to have Jupyter Notebook and python installed on your computer.<br/>
 <br/>
 
